@@ -3,6 +3,8 @@
 // Created by: Marshall Demars
 // Created on: Nov 2022
 // This program uses nested loops to print RGB values
+
+
 #include <iostream>
 
 int main() {
