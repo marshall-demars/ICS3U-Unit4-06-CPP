@@ -1,13 +1,12 @@
-// Copyright (c) 2022 Kyanh Pham
+// Copyright (c) 2022 Marshall Demars
 //
-// Created by: Kyanh Pham
-// Created on: Oct 2022
-// This program uses nested loops to find every RGB value
-
+// Created by: Marshall Demars
+// Created on: Nov 2022
+// This program uses nested loops to print RGB values
 #include <iostream>
 
 int main() {
-    // This function finds every valid RGB
+    // This program uses nested loops to print RGB values
 
     int rgb1;
     int rgb2;
